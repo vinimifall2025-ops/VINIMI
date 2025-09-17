@@ -41,7 +41,7 @@ This project focuses on **ensuring workplace safety compliance** by detecting pe
 
 ## Next Steps
 
-- Integrate **alerting system** to notify individuals via SMS or WhatsApp if safety violations are detected.  
+- Integrate **alerting system** to notify individuals via SMS if safety violations are detected.  
 - Extend **Vision-Language Q&A** to allow intuitive queries like “Is this person wearing a helmet?” or “Who is this?”  
 
 ---
