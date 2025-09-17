@@ -17,7 +17,7 @@ This project focuses on **ensuring workplace safety compliance** by detecting pe
 2. **Metadata Preparation**  
    - Created `person_metadata.csv` linking each image to identity and a unique mobile number.  
    - Supports downstream face recognition and person-specific analysis.  
-   - [Wiki Page: Metadata Preparation](https://github.com/vinimifall2025-ops/VINIMI/wiki/Metadata-Preparation)
+   - [Wiki Page: Metadata Preparation](https://github.com/vinimifall2025-ops/VINIMI/wiki/MetaData)
 
 3. **Face Recognition**  
    - Used **DeepFace** with **VGG-Face** to extract **4096-dimensional embeddings** for each face.  
