@@ -1,4 +1,4 @@
-# VINIMI
+# VINIMI - Vision and Natural Language Intelligence for Monitoring Industrial Safety
 
 This project focuses on **ensuring workplace safety compliance** by detecting personnel, identifying individuals, and verifying whether they are wearing appropriate **Personal Protective Equipment (PPE)** such as helmets. The pipeline integrates **face recognition**, **helmet detection**, and a **vision-language interface** for querying images.
 
