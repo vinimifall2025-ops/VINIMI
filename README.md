@@ -4,6 +4,14 @@ This project focuses on **ensuring workplace safety compliance** by detecting pe
 
 ---
 
+## Project Architecture
+
+![VINIMI Architecture](https://github.com/vinimifall2025-ops/VINIMI/blob/main/images/simple_architecture.png)
+
+*Figure: Architecture of VINIMI pipeline, showing dataset preparation, face recognition and helmet detection.*
+
+---
+
 ## What We Have Done
 
 ### 1. Synthetic Dataset Creation
